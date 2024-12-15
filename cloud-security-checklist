@@ -1,1 +1,10 @@
+# Cloud Security Checklist
 
+## AWS
+- Enable CloudTrail logging.
+- Configure IAM policies with least privilege.
+- Enable multi-factor authentication (MFA) for all users.
+
+## Azure
+- Use Azure Security Center recommendations.
+- Enable Azure AD Conditional Access.
