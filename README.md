@@ -6,6 +6,3 @@ A collection of tools, scripts, and guidelines to secure cloud infrastructure ac
 - Automation for vulnerability scanning
 - Best practices for cloud security compliance (CIS, NIST)
 
-## Getting Started
-1. Clone the repository:
-2. 
